@@ -1,9 +1,18 @@
-It's me, Tierney!
+# What ?
+
+An uber swag bussiness card
+
+# Why ?
+
+An uber swag bussiness card
+
+# Thanks
+
+Thanks to [@bnb](https://github.com/bnb/bitandbang) for this idea ❤
+
 
 # Usage
 Via npx:
 ```
-npx bitandbang
+npx gauthierd-
 ```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
