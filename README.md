@@ -1,3 +1,6 @@
+[![npm version](https://img.shields.io/npm/v/gauthierd-.svg?style=flat-square)](https://www.npmjs.com/package/gauthierd-)
+
+
 # What ?
 
 An uber swag bussiness card
