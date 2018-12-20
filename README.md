@@ -1,4 +1,4 @@
-[![npm version](https://img.shields.io/npm/v/gauthierd-.svg?style=flat-square)](https://www.npmjs.com/package/gauthierd-)
+[![npm version](https://img.shields.io/npm/v/gauthierd-.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/gauthierd-)
 
 
 # What ?
